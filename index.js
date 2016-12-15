@@ -1,3 +1,5 @@
-<body>
- hello world!
-</body>
+<html>
+     <body>
+          Hello, Bluemix World!
+     </body>
+</html>
